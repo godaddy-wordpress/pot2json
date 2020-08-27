@@ -1,7 +1,7 @@
 {
     "name": "godaddy-wordpress/pot2json",
     "description": "Package to convert PO files to JSON",
-    "license": "GPL2",
+    "license": "GPL-2.0-or-later",
     "authors": [
         {
             "name": "Frankie Jarrett",
